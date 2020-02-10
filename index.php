@@ -177,7 +177,7 @@
 			<div class="col-md-12">
 				<div class="text-center">
 					<div class="copyright">
-						DESIGN BY <span><a href="https://www.cassixcom.com"><img src="https://cassixcom.com/images/cassixcom-blue.png" height="50"></a></span>
+						Design by <span><a href="https://www.cassixcom.com"><img src="https://cassixcom.com/images/cassixcom-blue.png" height="50"></a></span>
 					</div>
 				</div>
 			</div>
