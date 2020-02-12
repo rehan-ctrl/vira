@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Vira Advisors</title>
-		<link rel="stylesheet" type="text/css" href="style.css?v=6">
+		<link rel="stylesheet" type="text/css" href="style.css?v=7">
 		<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
@@ -57,17 +57,17 @@
 								<p class="card-text">
 									<div class="holder mrq">
 										<ul id="ticker01">
-											<li><a href="#"><b>04 Feb, 2020</b> Chapter 4 of Economic Survey 2019-20 Vol II</a></li>
-											<li><a href="#"><b>28 Jan, 2020</b> Transfer of Membership from one RVO to another</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> In the matter of RV Registration </a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> Constitution of committee for recommending rules and regulatory framework for smooth implementation of proposed cross border Insolvency provisions in the Insolvency and Bankruptcy Code, 2016 </a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> IICA invites applications for Graduate Insolvency Programme</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> IBBI (Voluntary Liquidation Process) (Amendment) Regulations, 2020</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b>Invitation of application for 6th Advanced Workshop for IPs at Hyderabad on 7th and 8th February, 2020  </a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> IBBI (Liquidation Process) (Amendment) Regulations, 2020</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> Order in the matter of Mr. Mukesh Kumar Rathi, Registered Valuer</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> IBBI amends the IBBI (Liquidation Process) Regulations, 2016</a></li>
-											<li><a href="#"><b>04 Feb, 2020</b> The Insolvency and Bankruptcy Code (Amendment) Ordinance, 2019 </a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> Chapter 4 of Economic Survey 2019-20 Vol II</p></a></li>
+											<li><a href="#"><b>28 Jan, 2020</b><p align="justify"> Transfer of Membership from one RVO to another</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> In the matter of RV Registration </p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> Constitution of committee for recommending rules and regulatory framework for smooth implementation of proposed cross border Insolvency provisions in the Insolvency and Bankruptcy Code, 2016 </p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> IICA invites applications for Graduate Insolvency Programme</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> IBBI (Voluntary Liquidation Process) (Amendment) Regulations, 2020</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> Invitation of application for 6th Advanced Workshop for IPs at Hyderabad on 7th and 8th February, 2020 </p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> IBBI (Liquidation Process) (Amendment) Regulations, 2020</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> Order in the matter of Mr. Mukesh Kumar Rathi, Registered Valuer</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> IBBI amends the IBBI (Liquidation Process) Regulations, 2016</p></a></li>
+											<li><a href="#"><b>04 Feb, 2020</b><p align="justify"> The Insolvency and Bankruptcy Code (Amendment) Ordinance, 2019 </p></a></li>
 										</ul>
 									</div>
 								</p>
@@ -124,60 +124,63 @@
 		<!-- Footer -->
 		<section id="footer">
 			<div class="container-fluid">
-				<div class="row text-center text-xs-center text-sm-left text-md-left">
-					<div class="col-xs-12 col-sm-3 col-md-3">
-						<ul class="list-unstyled">
-							<li><a href="javascript:void();"><img src="images/logo-black.png" height="150"></a></li>
-							<li>
-								<div class="mt-sm-3">
-									<ul class="list-unstyled list-inline social">
-										&nbsp;<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-facebook"></i></a></li>
-										<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-twitter"></i></a></li>
-										<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-instagram"></i></a></li>
-										<li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-										<li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-youtube"></i></a></li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3">
-						<h5>Services</h5>
-						<ul class="list-unstyled quick-links">
-							<li><a href="javascript:void();">Initial Public Offering(IPO)</a></li>
-							<li><a href="javascript:void();">Paybacks</a></li>
-							<li><a href="javascript:void();">Open Offers</a></li>
-							<li><a href="javascript:void();">Valuation</a></li>
-							<li><a href="javascript:void();">Private Equity Indication</a></li>
-						</ul>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3">
-						<h5>Address</h5>
-						<ul class="list-unstyled quick-links">
-							<li><a href="javascript:void();">XYZ</a></li>
-							<li><a href="javascript:void();">ABC Lane</a></li>
-							<li><a href="javascript:void();">Address Street, Area</a></li>
-							<li><a href="javascript:void();">Area Address</a></li>
-							<li><a href="javascript:void();">City - ######</a></li>
-						</ul>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3">
-						<h5>Contact Us</h5>
-						<ul class="list-unstyled quick-links">
-							<li><a href="javascript:void();"></a></li>
-							<li><a href="javascript:void();">About</a></li>
-							<li><a href="javascript:void();">About</a></li>
-						</ul>
+				<div class="row">
+					<div class="offset-md-1 col-md-11">
+						<div class="row text-center text-xs-center text-sm-left text-md-left">
+						<div class="col-xs-12 col-sm-3 col-md-3">
+							<ul class="list-unstyled">
+								<li><a href="javascript:void();"><img src="images/logo-black.png" height="150"></a></li>
+								<li>
+									<div class="mt-sm-3">
+										<ul class="list-unstyled list-inline social">
+											&nbsp;<li class="list-inline-item"><a href="https://www.facebook.com/viraadvisors" target="_blank"><i class="fa fa-facebook"></i></a></li>
+											<li class="list-inline-item"><a href="https://twitter.com/ViraAdvisors" target="_blank"><i class="fa fa-twitter"></i></a></li>
+											<li class="list-inline-item"><a href="https://www.instagram.com/viraadvisors/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+											<li class="list-inline-item"><a href="https://www.linkedin.com/company/viraadvisors" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+											<li class="list-inline-item"><a href="https://www.youtube.com/channel/UCLN2CdnLHGA3cH0jWNJXqFg" target="_blank"><i class="fa fa-youtube"></i></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-sm-3 col-md-3">
+							<h5>Services</h5>
+							<ul class="list-unstyled quick-links">
+								<li><a href="javascript:void();">Initial Public Offering(IPO)</a></li>
+								<li><a href="javascript:void();">Paybacks</a></li>
+								<li><a href="javascript:void();">Open Offers</a></li>
+								<li><a href="javascript:void();">Valuation</a></li>
+								<li><a href="javascript:void();">Private Equity Indication</a></li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-sm-3 col-md-3">
+							<h5>Address</h5>
+							<ul class="list-unstyled quick-links">
+								<li><a href="javascript:void();">XYZ</a></li>
+								<li><a href="javascript:void();">ABC Lane</a></li>
+								<li><a href="javascript:void();">Address Street, Area</a></li>
+								<li><a href="javascript:void();">Area Address</a></li>
+								<li><a href="javascript:void();">City - ######</a></li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-sm-3 col-md-3">
+							<h5>Contact Us</h5>
+							<ul class="list-unstyled quick-links">
+								<li><a href="javascript:void();"></a></li>
+								<li><a href="javascript:void();">Contact</a></li>
+								<li><a href="javascript:void();">Contact</a></li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
-			
+			</div>
 		</section>
 		<div class="row">
 			<div class="col-md-12">
 				<div class="text-center">
 					<div class="copyright">
-						Design by <span><a href="https://www.cassixcom.com"><img src="https://cassixcom.com/images/cassixcom-blue.png" height="50"></a></span>
+						Design by <span><a href="https://www.cassixcom.com" target="_blank"><img src="https://cassixcom.com/images/cassixcom-logo-2.png" height="50"></a></span>
 					</div>
 				</div>
 			</div>
@@ -187,8 +190,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.0/SmoothScroll.min.js"></script>
 		<script src="https://www.jqueryscript.net/demo/High-Performance-Background-Parallax-Effect-with-jQuery-CSS3-jarallax/jarallax/jarallax.js"></script>
 		<script src="assets/js/jquery.kxbdmarquee.js"></script>
-		<script src="assets/js/typewriter.js"></script>
-		<script src="custom.js?v=8"></script>
+		<script src="assets/js/type.js"></script>
+		<script src="custom.js?v=7"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 	</body>
 </html>
